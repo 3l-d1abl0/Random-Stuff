@@ -9,8 +9,8 @@
             "buttons": [
               {
                 "type": "show_block",
-                "block_name": "some block name",
-                "title": "CallApi"
+                "block_name": "CallApi",
+                "title": "Show the block!"
               },
               {
                 "type": "web_url",
