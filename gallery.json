@@ -8,34 +8,34 @@
           "elements":[
             {
               "title":"Classic White T-Shirt",
-              "image_url":"http://petersapparel.parseapp.com/img/item100-thumb.png",
+              "image_url":"http://lorempixel.com/g/400/200/",
               "subtitle":"Soft white cotton t-shirt is back in style",
               "buttons":[
                 {
                   "type":"web_url",
-                  "url":"https://petersapparel.parseapp.com/view_item?item_id=100",
+                  "url":"http://lorempixel.com/g/400/200/",
                   "title":"View Item"
                 },
                 {
                   "type":"web_url",
-                  "url":"https://petersapparel.parseapp.com/buy_item?item_id=100",
+                  "url":"http://lorempixel.com/g/400/200/",
                   "title":"Buy Item"
                 }
               ]
             },
             {
               "title":"Classic Grey T-Shirt",
-              "image_url":"http://petersapparel.parseapp.com/img/item101-thumb.png",
+              "image_url":"http://lorempixel.com/g/400/200/",
               "subtitle":"Soft gray cotton t-shirt is back in style",
               "buttons":[
                 {
                   "type":"web_url",
-                  "url":"https://petersapparel.parseapp.com/view_item?item_id=101",
+                  "url":"http://lorempixel.com/g/400/200/",
                   "title":"View Item"
                 },
                 {
                   "type":"web_url",
-                  "url":"https://petersapparel.parseapp.com/buy_item?item_id=101",
+                  "url":"http://lorempixel.com/g/400/200/",
                   "title":"Buy Item"
                 }
               ]
