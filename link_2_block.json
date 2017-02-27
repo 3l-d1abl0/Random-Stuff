@@ -1,0 +1,10 @@
+{
+  "type": "show_block",
+  "block_name": "Finish",
+  "title": "Finish Shopping"
+},
+{
+  "type": "show_block",
+  "block_names": ["Block1", "Block2"],
+  "title": "Finish Shopping"
+}
