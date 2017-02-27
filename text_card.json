@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "attachment": {
+        "type": "template",
+        "payload": {
+            "template_type": "button",
+            "text": "Hello!",
+            "buttons": [
+              {
+                "type": "show_block",
+                "block_name": "some block name",
+                "title": "CallApi"
+              },
+              {
+                "type": "web_url",
+                "url": "https://petersapparel.parseapp.com/buy_item?item_id=100",
+                "title": "Buy Item"
+              }
+            ]
+        }
+      }
+    }
+  ]
+}
