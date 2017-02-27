@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "attachment": {
+        "type": "audio",
+        "payload": {
+          "url": "http://www.sample-videos.com/audio/mp3/crowd-cheering.mp3"
+        }
+      }
+    }
+  ]
+}
