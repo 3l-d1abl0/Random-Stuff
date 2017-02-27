@@ -1,6 +1,6 @@
 {
- "messages": [
-   {"text": "Welcome to our store!"},
-   {"text": "How can I help you?"}
- ]
+  "messages": [
+    { "attachment": { "type": "image", "payload": {  "url": "https://petersapparel.parseapp.com/img/item101-thumb.png" }  }
+    }
+  ]
 }
