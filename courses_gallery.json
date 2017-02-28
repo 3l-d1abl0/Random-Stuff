@@ -37,7 +37,7 @@
               "buttons":[
                 {
                   "type":"show_block",
-                  "url":"DataSciencePython",
+                  "block_name":"DataSciencePython",
                   "title":"Course Details"
                 }
               ]
