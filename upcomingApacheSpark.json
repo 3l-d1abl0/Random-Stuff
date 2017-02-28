@@ -1,0 +1,36 @@
+{
+ "messages": [
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"generic",
+          "elements":[
+              {
+                "title":"Apache Spark Certification Training",
+                "image_url":"https://s3.amazonaws.com/files.dezyre.com/dezyre2.0/images/home_apachesparkcertificationtraining.png",
+                "subtitle":"Apache Spark Certification Training. Apache Spark Online Training in 30 days",
+                "buttons":[
+                    {
+                      "type":"web_url",
+                      "url":"https://www.dezyre.com/apache-spark-scala-training-online/38",
+                      "title":"Batch1 Date and Timing [Enroll]"
+                    },
+                    {
+                      "type":"web_url",
+                      "url":"https://www.dezyre.com/apache-spark-scala-training-online/38",
+                      "title":"Batch2 Date and Timing [Enroll]"
+                    },
+                    {
+                      "type":"web_url",
+                      "url":"https://www.dezyre.com/apache-spark-scala-training-online/38",
+                      "title":"Batch3 Date and Timing [Enroll]"
+                    }
+                ]
+              }
+          ]
+        }
+      }
+    }
+  ]
+}

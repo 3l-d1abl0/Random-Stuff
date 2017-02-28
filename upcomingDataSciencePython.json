@@ -1,0 +1,36 @@
+{
+ "messages": [
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"generic",
+          "elements":[
+              {
+                "title":"Introduction to Data Science and Python",
+                "image_url":"https://www.dezyre.com/introduction-to-data-science-in-python/39",
+                "subtitle":"Introduction to Data Science in Python",
+                "buttons":[
+                    {
+                      "type":"web_url",
+                      "url":"https://www.dezyre.com/introduction-to-data-science-in-python/39",
+                      "title":"Batch1 Date and Timing [Enroll]"
+                    },
+                    {
+                      "type":"web_url",
+                      "url":"https://www.dezyre.com/introduction-to-data-science-in-python/39",
+                      "title":"Batch2 Date and Timing [Enroll]"
+                    },
+                    {
+                      "type":"web_url",
+                      "url":"https://www.dezyre.com/introduction-to-data-science-in-python/39",
+                      "title":"Batch3 Date and Timing [Enroll]"
+                    }
+                ]
+              }
+          ]
+        }
+      }
+    }
+  ]
+}
