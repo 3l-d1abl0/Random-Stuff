@@ -1,0 +1,50 @@
+{
+ "messages": [
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"generic",
+          "elements":[
+            {
+              "title":"Certificate in Hadoop and Big Data",
+              "image_url":"https://s3.amazonaws.com/files.dezyre.com/dezyre2.0/images/home_bigdataandhadoopcertificationtraining.png",
+              "subtitle":"Learn Hadoop, HDFS, MapReduce, HBase, Hive, Pig, Sqoop, Flume, YARN",
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://dummyimage.com/150x150/000/fff",
+                  "title":"Course Details"
+                }
+              ]
+            },
+            {
+              "title":"Apache Spark Certification Training",
+              "image_url":"https://s3.amazonaws.com/files.dezyre.com/dezyre2.0/images/home_apachesparkcertificationtraining.png",
+              "subtitle":"Apache Spark Certification Training. Apache Spark Online Training in 30 days",
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://dummyimage.com/150x150/000/fff",
+                  "title":"Course Details"
+                }
+              ]
+            },
+			{
+              "title":"Introduction to Data Science and Python",
+              "image_url":"https://s3.amazonaws.com/files.dezyre.com/dezyre2.0/images/home_introductiontodatascienceinpython.png",
+              "subtitle":"Introduction to Data Science in Python",
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://dummyimage.com/150x150/000/fff",
+                  "title":"Clourse Details"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
