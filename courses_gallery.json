@@ -13,7 +13,7 @@
               "buttons":[
                 {
                   "type":"show_block",
-                  "block_name":"newBlock",
+                  "block_name":"BigDataHadoop",
                   "title":"Course Details"
                 }
               ]
@@ -24,8 +24,8 @@
               "subtitle":"Apache Spark Certification Training. Apache Spark Online Training in 30 days",
               "buttons":[
                 {
-                  "type":"web_url",
-                  "url":"https://dummyimage.com/150x150/000/fff",
+                  "type":"show_block",
+                  "block_name":"ApacheSpark",
                   "title":"Course Details"
                 }
               ]
@@ -36,8 +36,8 @@
               "subtitle":"Introduction to Data Science in Python",
               "buttons":[
                 {
-                  "type":"web_url",
-                  "url":"https://dummyimage.com/150x150/000/fff",
+                  "type":"show_block",
+                  "url":"DataSciencePython",
                   "title":"Clourse Details"
                 }
               ]
