@@ -8,34 +8,34 @@
           "elements":[
             {
               "title":"Classic White T-Shirt",
-              "image_url":"http://lorempixel.com/g/400/200/",
+              "image_url":"https://dummyimage.com/150x150/000/fff",
               "subtitle":"Soft white cotton t-shirt is back in style",
               "buttons":[
                 {
                   "type":"web_url",
-                  "url":"http://lorempixel.com/g/400/200/",
+                  "url":"https://dummyimage.com/150x150/000/fff",
                   "title":"View Item"
                 },
                 {
                   "type":"web_url",
-                  "url":"http://lorempixel.com/g/400/200/",
+                  "url":"https://dummyimage.com/150x150/000/fff",
                   "title":"Buy Item"
                 }
               ]
             },
             {
               "title":"Classic Grey T-Shirt",
-              "image_url":"http://lorempixel.com/g/400/200/",
+              "image_url":"https://dummyimage.com/150x150/000/fff",
               "subtitle":"Soft gray cotton t-shirt is back in style",
               "buttons":[
                 {
                   "type":"web_url",
-                  "url":"http://lorempixel.com/g/400/200/",
+                  "url":"https://dummyimage.com/150x150/000/fff",
                   "title":"View Item"
                 },
                 {
                   "type":"web_url",
-                  "url":"http://lorempixel.com/g/400/200/",
+                  "url":"https://dummyimage.com/150x150/000/fff",
                   "title":"Buy Item"
                 }
               ]
