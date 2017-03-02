@@ -4,24 +4,31 @@
       "attachment":{
         "type":"template",
         "payload":{
-          "template_type":"button",
-          "text": "05 Mar Sun - Fri(3 weeks) 6:30 PM - 9:30 PM PST",
-          "buttons":[
-              {
-                "type":"web_url",
-                "url":"https://dezyre.com/Hadoop-Training-online/19#upcoming-classes",
-                "title":"Enroll for this Batch"
-              }
-           ],
-
-          "text": "15 Mar Sun - Fri(3 weeks) 6:30 PM - 9:30 PM PST",
-          "buttons":[
-            {
-                "type":"web_url",
-                "url":"https://dezyre.com/Hadoop-Training-online/19#upcoming-classes",
-				"title":"Enroll"
-            }
-          ]
+          "template_type":"generic",
+          "elements":[
+			  {
+				  "title": "Batch 1",
+				  "text": "05 Mar Sun - Fri(3 weeks) 6:30 PM - 9:30 PM PST",
+				  "buttons":[
+					  {
+						"type": "web_url",
+						"url": "https://dezyre.com/Hadoop-Training-online/19#upcoming-classes",
+						"title": "Enroll for this Batch"
+					  }
+				  ]
+			  },
+			  {
+				  "title": "Batch 2",
+				  "text": "15 Mar Sun - Fri(3 weeks) 6:30 PM - 9:30 PM PST",
+				  "buttons":[
+					  {
+						"type":"web_url",
+						"url":"https://dezyre.com/Hadoop-Training-online/19#upcoming-classes",
+						"title": "Enroll for this Batch"
+					  }
+				  ]
+			  }
+		  ]
         }
       }
     }
