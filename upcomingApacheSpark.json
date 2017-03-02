@@ -4,30 +4,23 @@
       "attachment":{
         "type":"template",
         "payload":{
-          "template_type":"generic",
-          "elements":[
+          "template_type":"button",
+          "text": "05 Mar Sun - Fri(3 weeks) 6:30 PM - 9:30 PM PST",
+          "buttons":[
               {
-                "title":"Apache Spark Certification Training",
-                "image_url":"https://s3.amazonaws.com/files.dezyre.com/dezyre2.0/images/home_apachesparkcertificationtraining.png",
-                "subtitle":"Apache Spark Certification Training. Apache Spark Online Training in 30 days",
-                "buttons":[
-                    {
-                      "type":"web_url",
-                      "url":"https://www.dezyre.com/apache-spark-scala-training-online/38",
-                      "title":"Batch1 Date and Timing [Enroll]"
-                    },
-                    {
-                      "type":"web_url",
-                      "url":"https://www.dezyre.com/apache-spark-scala-training-online/38",
-                      "title":"Batch2 Date and Timing [Enroll]"
-                    },
-                    {
-                      "type":"web_url",
-                      "url":"https://www.dezyre.com/apache-spark-scala-training-online/38",
-                      "title":"Batch3 Date and Timing [Enroll]"
-                    }
-                ]
+                "type":"web_url",
+                "url":"https://dezyre.com/Hadoop-Training-online/19#upcoming-classes",
+                "title":"Enroll for this Batch"
               }
+           ],
+
+          "text": "15 Mar Sun - Fri(3 weeks) 6:30 PM - 9:30 PM PST",
+          "buttons":[
+            {
+                "type":"web_url",
+                "url":"https://dezyre.com/Hadoop-Training-online/19#upcoming-classes",
+				"title":"Enroll"
+            }
           ]
         }
       }
