@@ -7,3 +7,26 @@ function addressMaker(city, state){
 }
 
 addressMaker('The Throne','Asgard');
+
+//Challenge
+
+function newMaker(address){
+  /*const newAddress ={
+    city: address.city,
+    state: address.state,
+    country: 'United States'
+  };*/
+
+  //Use template literal, destructuring to console newAddress
+
+  const { city, state } = address;
+  const newAddress = {
+    city,
+    state,
+    country : 'USA'
+  };
+
+  console.log(`${newAddress.city} ${newAddress.state} ${newAddress.country}`);
+}
+
+newMaker({city: 'Austin', state: 'Texas'});
