@@ -14,5 +14,11 @@ let lyrics = 'Pain, you made me a believer';
 for (const ch of lyrics){
   console.log(ch);
 }
-
 //anything that is iterable can be used if For Of Loop
+
+
+for (let inc of income){
+  inc+=500; //wont update the iterable Object
+}
+//It is just designed to Iterate over objects
+console.log(income);
